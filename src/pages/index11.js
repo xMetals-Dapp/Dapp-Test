@@ -549,7 +549,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Gold_Kilo.jpg?v=2023-04-21T18:35:41.083Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/GoldKilo.jpg?v=2023-04-21T18:44:41.005Z"
 				display="block"
 				width="100%"
 				height="80%"
