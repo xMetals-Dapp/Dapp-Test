@@ -526,7 +526,7 @@ try{
 				border-radius="30px"
 				align-items="center"
 			>
-				<Image src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xPT.jpg?v=2023-02-07T19:14:21.223Z" display="block" width="100%" border-radius="30px 30px 0px 00px" />
+				<Image src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Platinum.jpg?v=2023-04-21T18:20:03.924Z" display="block" width="100%" border-radius="30px 30px 0px 00px" />
 				<Box />
 				<Box display="flex" flex-direction="column" align-items="center" justify-content="center">
 					<Box height="5%" />
