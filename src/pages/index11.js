@@ -64,7 +64,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xPD.jpg?v=2023-02-07T18:13:20.104Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Palladiuum.jpg?v=2023-04-21T18:20:03.929Z"
 				display="block"
 				width="100%"
 				height="80%"
@@ -148,7 +148,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xGLD.jpg?v=2023-02-07T19:13:55.114Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Gold.jpg?v=2023-04-21T18:20:03.931Z"
 				display="block"
 				width="100%"
 				height="80%"
@@ -242,7 +242,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xPT.jpg?v=2023-02-07T19:14:21.223Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Platinum.jpg?v=2023-04-21T18:20:03.924Z"
 				display="block"
 				width="100%"
 				height="80%"
@@ -342,7 +342,7 @@ export default (() => {
 		>
 			<Box min-width="10px" />
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xUSD%20v5.png?v=2023-03-15T23:56:54.050Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/USDC2.jpg?v=2023-04-21T18:25:32.332Z"
 				display="block"
 				object-fit="cover"
 				position="static"
@@ -456,7 +456,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xPD.jpg?v=2023-02-07T18:13:20.104Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Palladium_Kilo.jpg?v=2023-04-21T18:35:41.084Z"
 				display="block"
 				width="100%"
 				height="80%"
@@ -549,7 +549,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xGLD.jpg?v=2023-02-07T19:13:55.114Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Gold_Kilo.jpg?v=2023-04-21T18:35:41.083Z"
 				display="block"
 				width="100%"
 				height="80%"
@@ -642,7 +642,7 @@ export default (() => {
 			sm-height="100%"
 		>
 			<Image
-				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xPT.jpg?v=2023-02-07T19:14:21.223Z"
+				src="https://uploads.quarkly.io/63e1507af2f031001fb80741/images/Platinum_Kilo.jpg?v=2023-04-21T18:35:41.079Z"
 				display="block"
 				width="100%"
 				height="80%"
