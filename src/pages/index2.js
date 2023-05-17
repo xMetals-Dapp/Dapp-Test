@@ -329,7 +329,7 @@ try{
 							user-select="auto"
 							pointer-events="auto"
 						>
-							xMetal Token
+							xMetals
 						</Strong>
 					</Text>
 				</Box>
@@ -419,7 +419,7 @@ try{
 							user-select="auto"
 							pointer-events="auto"
 						>
-							Stable Coin
+							Stablecoin
 						</Strong>
 					</Text>
 				</Box>
@@ -634,7 +634,7 @@ try{
 						justify-content="center"
 						font="25px sans-serif"
 					>
-  					{coin === "3" ? "Conversion" : "Price Per Oz"}
+  					{coin === "3" ? "Conversion" : "Price / Oz"}
 					</Text>
 					<Box display="flex" flex-direction="row">
 						<Text
