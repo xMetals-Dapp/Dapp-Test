@@ -373,7 +373,7 @@ export default (() => {
                            user-select="auto"
                            pointer-events="auto"
                        >
-                           xMetal Token
+                           xMetals
                        </Strong>
                    </Text>
                </Box>
@@ -455,7 +455,7 @@ export default (() => {
                            user-select="auto"
                            pointer-events="auto"
                        >
-                           Stable Coin
+                           Stablecoin
                        </Strong>
                    </Text>
                </Box>
@@ -677,7 +677,7 @@ export default (() => {
 						justify-content="center"
 						font="25px sans-serif"
 					>
-						Price Per Oz
+						Price / Oz
 					</Text>
 					<Box display="flex" flex-direction="row">
 						<Text
