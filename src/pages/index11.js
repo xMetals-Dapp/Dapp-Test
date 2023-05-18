@@ -218,7 +218,7 @@ export default (() => {
 						user-select="auto"
 						pointer-events="auto"
 					>
-						1 xPT + $100
+						1 xPT + $125
 					</Strong>
 				</Text>
 			</Box>
@@ -302,7 +302,7 @@ export default (() => {
 					justify-content="flex-start"
 				>
 					<Strong>
-						1 xPD + $100
+						1 xPD + $150
 					</Strong>
 				</Text>
 			</Box>
@@ -416,7 +416,7 @@ export default (() => {
 						user-select="auto"
 						pointer-events="auto"
 					>
-						32.1507 xGLD + $100
+						32.1507 xGLD + $3000
 					</Strong>
 				</Text>
 			</Box>
@@ -509,7 +509,7 @@ export default (() => {
 						user-select="auto"
 						pointer-events="auto"
 					>
-						32.1507 xPT + $100
+						32.1507 xPT + $3500
 					</Strong>
 				</Text>
 			</Box>
@@ -602,7 +602,7 @@ export default (() => {
 						user-select="auto"
 						pointer-events="auto"
 					>
-						32.1507 xPD + $100
+						32.1507 xPD + $4000
 					</Strong>
 				</Text>
 			</Box>
