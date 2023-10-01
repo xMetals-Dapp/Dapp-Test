@@ -490,7 +490,7 @@ try{
 						focus-box-shadow="0 0 0 0px --color-primary"
 						onClick ={mintTransaction}
 					>
-						Redeem Physical
+						Redeem
 					</Button>
 				</Box>
 				<Box width="75%">
