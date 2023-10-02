@@ -723,7 +723,7 @@ export default (() => {
 						user-select="auto"
 						pointer-events="auto"
 					>
-						1 xUSD
+						1 xUSD = 1 USDC
 					</Strong>
 				</Text>
 			</Box>
