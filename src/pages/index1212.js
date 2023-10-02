@@ -522,7 +522,7 @@ try{
 						Physical bar will be shipped to address on KYC
 						<br />
 						<br />
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+						Redeem your xUSD tokens for USDC, on a 1:1 basis with no fees. For example, 500 xUSD = 500 USDC. You will be issued a non-transferable receipt and then settled with the corresponding amount of USDC in 2-3 business days.
 					</Text>
 					<Box height="40%" />
 				</Box>
