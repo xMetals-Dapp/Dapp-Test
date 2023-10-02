@@ -202,7 +202,7 @@ export default (() => {
 					xMetals | Dapp
 				</title>
 				<meta name={"xMetals App"} content={"App created by xMetals"} />
-				<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/63e1507af2f031001fb80741/images/xPD.jpg?v=2023-02-07T18:13:20.104Z"} type={"image/x-icon"} />
+				<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/63ff9730b4ef240020700a3c/images/xMetals%20Icon.png?v=2023-03-01T21:55:01.585Z"} type={"image/x-icon"} />
 			</Helmet>
 			<Components.TheHeader />
 			<Section padding="24px 0 60px 0" md-padding="30px 0 30px 0" height="100%" background="#23212D">
