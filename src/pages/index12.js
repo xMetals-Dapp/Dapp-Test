@@ -561,7 +561,7 @@ try{
 						width="95%"
 					>
 						<br />
-						1 xPT + $100 / per ounce
+						1 xPT + $100 per ounce
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
