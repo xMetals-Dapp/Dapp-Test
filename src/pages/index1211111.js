@@ -183,7 +183,7 @@ try{
 	let signer = getTheSigner();
 	let provider = getProvider();
 	let temp = (xGLD_Kilo(provider)).connect(signer);
-	let mintAmount = realAmount * 32.1507 * (10 ** 6);
+	let mintAmount = realAmount;
 	let resp = await temp.mint(mintAmount, coin); //mints a metal token based on the amount minted and which stable coin is being used
 	console.log(resp);
 	setSendSuccess("Mint Successful!"); //sets the success message for the transaction
