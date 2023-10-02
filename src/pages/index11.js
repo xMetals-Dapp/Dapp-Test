@@ -224,7 +224,7 @@ export default (() => {
 			</Box>
 		</Box>
 	</LinkBox>
-	<LinkBox width="23.5%" href="/signin" md-width="45%" sm-height="330px">
+	<LinkBox width="23.5%" href="/index1211" md-width="45%" sm-height="330px">
 		<Box
 			width="100%"
 			md-width="100%"
