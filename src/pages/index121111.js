@@ -550,7 +550,7 @@ try{
 							pointer-events="auto"
 						>
 						</Strong>
-						1 Ounce Platinum
+						1 Kilo Platinum
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
@@ -561,7 +561,7 @@ try{
 						width="95%"
 					>
 						<br />
-						1 xPT + $100 / per ounce
+						32.1507 xPT + $3000 / per kilo
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
@@ -572,10 +572,11 @@ try{
 						width="95%"
 					>
 						<br />
-						Physical bar will be shipped to address on KYC
+						Physical bar will be shipped to address on KYC.
 						<br />
 						<br />
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+						You will receive a 1 troy ounce (1000g) Platinum bar from a LBMA/LPPM approved manufacturer, guaranteed to be .9995 pure. The bar(s) come in sealed/secure packaging and shipping is insured, with a tracking number being provided. Brands are likely to be Valcambi, Argor-Heraeus, Baird or PAMP.
+
 					</Text>
 					<Box height="40%" />
 				</Box>
