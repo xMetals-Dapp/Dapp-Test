@@ -562,7 +562,7 @@ export default (() => {
 							width="95%"
 						>
 							<br />
-							1 xPD + $100 / per kilo
+							32.1507 xPD + $4000 / per kilo
 						</Text>
 						<Text
 							margin="0px 0px 0px 0px"
@@ -573,10 +573,10 @@ export default (() => {
 							width="95%"
 						>
 							<br />
-							Physical bar will be shipped to address on KYC
+							Physical bar will be shipped to address on KYC.
 							<br />
 							<br />
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+							You will receive a 1 troy ounce (1000g) Palladium bar from a LBMA/LPPM approved manufacturer, guaranteed to be .9995 pure. The bar(s) come in sealed/secure packaging and shipping is insured, with a tracking number being provided. Brands are likely to be Valcambi, Argor-Heraeus, Baird or PAMP.
 						</Text>
 						<Box height="40%" />
 					</Box>
