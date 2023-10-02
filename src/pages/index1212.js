@@ -497,7 +497,7 @@ try{
 							pointer-events="auto"
 						>
 						</Strong>
-						1 Ounce Palladium
+						USDC
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
@@ -508,7 +508,7 @@ try{
 						width="95%"
 					>
 						<br />
-						1 xGLD + $100 / per ounce
+						1 xUSD = 1 USDC
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
@@ -519,7 +519,7 @@ try{
 						width="95%"
 					>
 						<br />
-						Physical bar will be shipped to address on KYC
+						Settled in 2-3 business days
 						<br />
 						<br />
 						Redeem your xUSD tokens for USDC, on a 1:1 basis with no fees. For example, 500 xUSD = 500 USDC. You will be issued a non-transferable receipt and then settled with the corresponding amount of USDC in 2-3 business days.
