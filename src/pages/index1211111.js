@@ -89,7 +89,7 @@ const setContract = async () => {
 	let tContract = temp_contract(provider);
 
 	//sets the allowance and balance of the stable coin 
-	let stableAllowance = await tContract.allowance(address,"0x996C9FDA7e6ee15bA8486Df0D4D9EeA68564D4Fb");
+	let stableAllowance = await tContract.allowance(address,"0x85C629DADF9B26540E617Fb87e79C5c78eDF29f3");
 	setStableAllowance(stableAllowance/(10 ** 6));
 	let stableBalance = await tContract.balanceOf(address);
 	setStableBalance(stableBalance/(10 ** 6));
@@ -119,7 +119,7 @@ const findMetalAllowance = async () => {
 	
 	//sets the allowance and the balance of the metal token
 	let temp_contract = xGLDContract(provider);
-	let metalAllowance = await temp_contract.allowance(address,"0x996C9FDA7e6ee15bA8486Df0D4D9EeA68564D4Fb");
+	let metalAllowance = await temp_contract.allowance(address,"0x85C629DADF9B26540E617Fb87e79C5c78eDF29f3");
 	setMetalAllowance(metalAllowance/(10 ** 6));
 	let metalBalance = await temp_contract.balanceOf(address);
 	setMetalBalance(metalBalance/(10 ** 6));
@@ -129,7 +129,7 @@ const findMetalAllowance = async () => {
 const findStableAllowance = async () => {
 let address = getTheAddress();
 //sets the allowance and balance of the stable coin 
-let stableAllowance = await contract_withProvider.allowance(address,"0x996C9FDA7e6ee15bA8486Df0D4D9EeA68564D4Fb");
+let stableAllowance = await contract_withProvider.allowance(address,"0x85C629DADF9B26540E617Fb87e79C5c78eDF29f3");
 setStableAllowance(stableAllowance/(10 ** 6));
 let stableBalance = await contract_withProvider.balanceOf(address);
 setStableBalance(stableBalance/(10 ** 6));
@@ -159,11 +159,11 @@ try{
 	const signer = getTheSigner();
 	let temp = contract_withProvider.connect(signer);
 	let newPrice = displayPrice * (10 ** 6);
-	let resp = await temp.approve("0x996C9FDA7e6ee15bA8486Df0D4D9EeA68564D4Fb",newPrice); //approve the spending amount to the metal contract for minting
+	let resp = await temp.approve("0x85C629DADF9B26540E617Fb87e79C5c78eDF29f3",newPrice); //approve the spending amount to the metal contract for minting
 	console.log(resp);
 	let newAmount = realAmount * 32.1507 * (10 ** 6);
 	let temp2 = (xGLDContract(provider)).connect(signer);
-	let resp2 = await temp2.approve("0x996C9FDA7e6ee15bA8486Df0D4D9EeA68564D4Fb",newAmount);
+	let resp2 = await temp2.approve("0x85C629DADF9B26540E617Fb87e79C5c78eDF29f3",newAmount);
 	console.log(resp2);
 	setSendSuccess("Approval Successful!"); //sets the success message
 	setTransactionData(resp.hash); //sends the transaction hash 
