@@ -102,7 +102,7 @@ useEffect(() => {
 
 //Function that sets Display Price and Price when changing the amount
 const findPrice = async () => {
-	let displayPrice = realAmount * 100;
+	let displayPrice = realAmount * 3000;
 	setDisplayPrice(displayPrice); //sets the price for the display 
 }; 
 
