@@ -631,7 +631,7 @@ export default (() => {
 	/>
 	<LinkBox
 		width="23.5%"
-		href="/index3"
+		href="/index1212"
 		md-width="45%"
 		sm-height="330px"
 		justify-content="flex-start"
