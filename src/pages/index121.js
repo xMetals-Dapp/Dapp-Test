@@ -573,10 +573,10 @@ try{
 						width="95%"
 					>
 						<br />
-						Physical bar will be shipped to address on KYC
+						Physical bar will be shipped to address on KYC.
 						<br />
 						<br />
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+						You will receive a 1 troy ounce (31.1035g) Gold bar from a LBMA approved manufacturer, guaranteed to be .9999 pure. The bar(s) come in sealed/secure packaging and shipping is insured, with a tracking number being provided. Brands are likely to be Valcambi, Argor-Heraeus, Perth or PAMP.
 					</Text>
 					<Box height="40%" />
 				</Box>
