@@ -563,7 +563,7 @@ try{
 						width="95%"
 					>
 						<br />
-						32.1507 xGLD + $3,000 / per kilo
+						32.1507 xGLD + $3,000 per kilo
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
@@ -577,7 +577,7 @@ try{
 						Physical bar will be shipped to address on KYC.
 						<br />
 						<br />
-						You will receive a 1 troy ounce (31.1035g) Gold bar from a LBMA approved manufacturer, guaranteed to be .9999 pure. The bar(s) come in sealed/secure packaging and shipping is insured, with a tracking number being provided. Brands are likely to be Valcambi, Argor-Heraeus, Perth or PAMP.
+						You will receive a 1 kilogram (1000g) Gold bar from a LBMA approved manufacturer, guaranteed to be .9999 pure. The bar(s) come in sealed/secure packaging and shipping is insured, with a tracking number being provided. Brands are likely to be Valcambi, Argor-Heraeus, Perth or PAMP.
 					</Text>
 					<Box height="40%" />
 				</Box>
