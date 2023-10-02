@@ -789,7 +789,7 @@ const xGLD_NFT_ABI = [
 
 
 const xGLD_Kilo = (provider) => {
-    return new ethers.Contract("0x996C9FDA7e6ee15bA8486Df0D4D9EeA68564D4Fb", xGLD_NFT_ABI, provider);
+    return new ethers.Contract("0x85C629DADF9B26540E617Fb87e79C5c78eDF29f3", xGLD_NFT_ABI, provider);
 }
 
 export default xGLD_Kilo;
