@@ -100,7 +100,7 @@ useEffect(() => {
 
 //Function that sets Display Price and Price when changing the amount
 const findPrice = async () => {
-	let displayPrice = realAmount * 100;
+	let displayPrice = realAmount * 125;
 	setDisplayPrice(displayPrice); //sets the price for the display 
 }; 
 
@@ -561,7 +561,7 @@ try{
 						width="95%"
 					>
 						<br />
-						1 xPT + $100 per ounce
+						1 xPT + $125 per ounce
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
