@@ -88,7 +88,7 @@ export default (() => {
 		let tContract = temp_contract(provider);
 	
 		//sets the allowance and balance of the stable coin 
-		let stableAllowance = await tContract.allowance(address,"0x5678110bB8E0C2A02fe9168F5548CC6067cBc8e6");
+		let stableAllowance = await tContract.allowance(address,"0xdd7A9ebf8aFeD5bDA7E06A7aE7c7B5D7ebE6D99B");
 		setStableAllowance(stableAllowance/(10 ** 6));
 		let stableBalance = await tContract.balanceOf(address);
 		setStableBalance(stableBalance/(10 ** 6));
@@ -118,7 +118,7 @@ export default (() => {
 		
 		//sets the allowance and the balance of the metal token
 		let temp_contract = xPDContract(provider);
-		let metalAllowance = await temp_contract.allowance(address,"0x5678110bB8E0C2A02fe9168F5548CC6067cBc8e6");
+		let metalAllowance = await temp_contract.allowance(address,"0xdd7A9ebf8aFeD5bDA7E06A7aE7c7B5D7ebE6D99B");
 		setMetalAllowance(metalAllowance/(10 ** 6));
 		let metalBalance = await temp_contract.balanceOf(address);
 		setMetalBalance(metalBalance/(10 ** 6));
@@ -128,7 +128,7 @@ export default (() => {
 	const findStableAllowance = async () => {
 	let address = getTheAddress();
 	//sets the allowance and balance of the stable coin 
-	let stableAllowance = await contract_withProvider.allowance(address,"0x5678110bB8E0C2A02fe9168F5548CC6067cBc8e6");
+	let stableAllowance = await contract_withProvider.allowance(address,"0xdd7A9ebf8aFeD5bDA7E06A7aE7c7B5D7ebE6D99B");
 	setStableAllowance(stableAllowance/(10 ** 6));
 	let stableBalance = await contract_withProvider.balanceOf(address);
 	setStableBalance(stableBalance/(10 ** 6));
@@ -158,11 +158,11 @@ export default (() => {
 		const signer = getTheSigner();
 		let temp = contract_withProvider.connect(signer);
 		let newPrice = displayPrice * (10 ** 6);
-		let resp = await temp.approve("0x5678110bB8E0C2A02fe9168F5548CC6067cBc8e6",newPrice); //approve the spending amount to the metal contract for minting
+		let resp = await temp.approve("0xdd7A9ebf8aFeD5bDA7E06A7aE7c7B5D7ebE6D99B",newPrice); //approve the spending amount to the metal contract for minting
 		console.log(resp);
 		let newAmount = realAmount * 32.1507 * (10 ** 6);
 		let temp2 = (xPDContract(provider)).connect(signer);
-		let resp2 = await temp2.approve("0x5678110bB8E0C2A02fe9168F5548CC6067cBc8e6",newAmount);
+		let resp2 = await temp2.approve("0xdd7A9ebf8aFeD5bDA7E06A7aE7c7B5D7ebE6D99B",newAmount);
 		console.log(resp2);
 		setSendSuccess("Approval Successful!"); //sets the success message
 		setTransactionData(resp.hash); //sends the transaction hash 
@@ -182,7 +182,7 @@ export default (() => {
 		let signer = getTheSigner();
 		let provider = getProvider();
 		let temp = (xPD_Kilo(provider)).connect(signer);
-		let mintPrice = realAmount * 32.1507
+		let mintPrice = realAmount * 32.1507 * (10 ** 6);
 		let resp = await temp.mint(mintPrice, coin); //mints a metal token based on the amount minted and which stable coin is being used
 		console.log(resp);
 		setSendSuccess("Mint Successful!"); //sets the success message for the transaction
