@@ -101,7 +101,7 @@ export default (() => {
 	
 	//Function that sets Display Price and Price when changing the amount
 	const findPrice = async () => {
-		let displayPrice = realAmount * 100;
+		let displayPrice = realAmount * 150;
 		setDisplayPrice(displayPrice); //sets the price for the display 
 	}; 
 	
@@ -561,7 +561,7 @@ export default (() => {
 							width="95%"
 						>
 							<br />
-							1 xPD + $100 per ounce
+							1 xPD + $150 per ounce
 						</Text>
 						<Text
 							margin="0px 0px 0px 0px"
