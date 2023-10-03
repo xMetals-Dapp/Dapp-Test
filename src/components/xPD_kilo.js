@@ -789,7 +789,7 @@ const xPD_NFT_ABI = [
 
 
 const xPD_Kilo = (provider) => {
-    return new ethers.Contract("0x0270DAB4c23a589112862a42658F1837ac990BE8", xPD_NFT_ABI, provider);
+    return new ethers.Contract("0xdd7A9ebf8aFeD5bDA7E06A7aE7c7B5D7ebE6D99B", xPD_NFT_ABI, provider);
 }
 
 
