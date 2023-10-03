@@ -561,7 +561,7 @@ try{
 						width="95%"
 					>
 						<br />
-						32.1507 xPT + $3000 per kilo
+						32.1507 xPT + $3500 per kilo
 					</Text>
 					<Text
 						margin="0px 0px 0px 0px"
